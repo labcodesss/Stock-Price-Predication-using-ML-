@@ -15,7 +15,7 @@ Feature	                         Description
 📊 Visualization	               Plots of stock trends and moving averages stored in /visualizations.
 🤖 Machine Learning Model	       Linear Regression used for 5-day price prediction.
 📈 Investment Metrics	           Cumulative returns and trend analysis.
-📄 PDF Report Generation	       Auto-generated report for each company stored in /reports.
+📄 PDF Report Generation	       Auto-generated report for each company stored in reports.
 
 🛠️ Technologies Used
 Category	       Tools/Libraries
